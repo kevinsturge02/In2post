@@ -2,4 +2,4 @@
 
 Compile using the Makefile on a machine with gcc installed
 
-run the executible created
+run the executale created
